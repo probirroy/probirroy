@@ -28,6 +28,6 @@ Skills: C / C++ / JAVA / Dart / SQL
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/probirroy)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/probirroy)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=probirroy)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/probirroy)  
