@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Probir Roy
 #### Mobile Apps Developer
-![Mobile Apps Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm currently working & Learning on Mobile Apps Development. As mobile app devleoper I use Flutter which is a framework for cross platform app development and I really loved it.
 
