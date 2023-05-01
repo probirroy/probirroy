@@ -24,7 +24,7 @@ Skills: C / C++ / JAVA / Dart / SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=probirroy&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=probirroy)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/probirroy)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/probirroy)  
 
