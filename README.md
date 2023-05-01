@@ -20,11 +20,11 @@ Skills: C / C++ / JAVA / Dart / SQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=probirroy)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/probirroy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probirroy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/probirroy&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=probirroy&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/probirroy)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=probirroy)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/probirroy)  
 
